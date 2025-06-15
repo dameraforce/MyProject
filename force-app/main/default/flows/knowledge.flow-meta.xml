@@ -78,7 +78,7 @@
         <dataType>String</dataType>
         <isCollection>false</isCollection>
         <isInput>false</isInput>
-        <isOutput>true</isOutput>
+        <isOutput>false</isOutput>
     </variables>
     <variables>
         <name>topArticleTitles</name>
