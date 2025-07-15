@@ -4,7 +4,7 @@
     <areMetricsLoggedToDataCloud>false</areMetricsLoggedToDataCloud>
     <environments>Default</environments>
     <interviewLabel>Create Milestone Progress on Opportunity Close {!$Flow.CurrentDateTime}</interviewLabel>
-    <label>Create Milestone Progress on Opportunity Close</label>
+    <label>Create Milestone Progress on Opportuniti Close</label>
     <processMetadataValues>
         <name>BuilderType</name>
         <value>
